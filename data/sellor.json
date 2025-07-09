@@ -1,0 +1,36 @@
+{
+  "userInfo": {
+    "name": "林溪",
+    "age": 28,
+    "occupation": "前端开发工程师（求职中）",
+    "city": "杭州",
+    "hobby": ["编程", "素食料理", "户外散步"]
+  },
+  "studyRecord": {
+    "date": "2025-07-09",
+    "content": [
+      {
+        "subject": "JavaScript",
+        "focus": ["数组方法", "闭包原理", "异步编程"],
+        "practice": "用reduce实现数组去重，完成3道面试题"
+      },
+      {
+        "subject": "Koa框架",
+        "focus": ["中间件机制", "路由配置", "GET请求处理"],
+        "progress": "完成简易接口服务搭建，返回JSON数据成功"
+      }
+    ],
+    "duration": "3.5小时",
+    "feeling": "结合实际场景练习后，理解更深刻，Koa使用很流畅"
+  },
+  "dailyDiet": {
+    "mealType": "素食自助",
+    "cost": 30,
+    "foods": ["清炒时蔬", "麻婆豆腐", "凉拌海带", "玉米粥", "蒸南瓜"],
+    "evaluation": "清淡不油腻，蛋白质（豆腐）和纤维（青菜）充足，肠胃舒适"
+  },
+  "physicalCondition": {
+    "eyes": "上午稍疲劳，下午户外散步后缓解",
+    "skin": "嘴角周围有色素痘，计划调整饮食观察"
+  }
+}
